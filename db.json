@@ -1,0 +1,306 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@gmail.com",
+      "password": "1234"
+    }
+  ],
+  "products": [
+    {
+      "name": "chicken",
+      "price": "200",
+      "stock": 19,
+      "category": "non-veg",
+      "id": "Dg7UdbP6Wuo"
+    },
+    {
+      "name": "egg",
+      "price": "10",
+      "stock": 94,
+      "category": "non-veg",
+      "id": "piY-GmUhpBI"
+    },
+    {
+      "name": "cucumber",
+      "price": "20",
+      "stock": 983,
+      "category": "veg",
+      "id": "evYYYmMwk_8"
+    },
+    {
+      "name": "apple",
+      "price": "45",
+      "stock": 7,
+      "category": "fruit",
+      "id": "mQvbbqhPpJ4"
+    },
+    {
+      "name": "7up",
+      "price": 20,
+      "stock": 195,
+      "category": "soft drinks",
+      "id": "xr0_XRNA8YU"
+    }
+  ],
+  "sales": [
+    {
+      "productId": "Dg7UdbP6Wuo",
+      "name": "chicken",
+      "price": "200",
+      "qty": 1,
+      "total": 200,
+      "date": "07/04/2026, 09:40:55",
+      "id": "m-Vhog4S-SA"
+    },
+    {
+      "productId": "piY-GmUhpBI",
+      "name": "egg",
+      "price": "10",
+      "qty": 1,
+      "total": 10,
+      "date": "12/04/2026, 09:36:06",
+      "id": "eCiarYyKerY"
+    },
+    {
+      "productId": "evYYYmMwk_8",
+      "name": "cucumber",
+      "price": "20",
+      "qty": 8,
+      "total": 160,
+      "date": "12/04/2026, 09:36:18",
+      "id": "u3VWvl6FhQ8"
+    },
+    {
+      "productId": "mQvbbqhPpJ4",
+      "name": "apple",
+      "price": "45",
+      "qty": 5,
+      "total": 225,
+      "date": "12/04/2026, 09:37:53",
+      "id": "w1VXfcLZqCo"
+    },
+    {
+      "productId": "mQvbbqhPpJ4",
+      "name": "apple",
+      "price": "45",
+      "qty": 1,
+      "total": 45,
+      "date": "12/04/2026, 09:45:22",
+      "id": "ci0TKkqTU_o"
+    },
+    {
+      "productId": "xr0_XRNA8YU",
+      "name": "7up",
+      "price": 20,
+      "qty": 5,
+      "total": 100,
+      "date": "12/04/2026, 09:52:31",
+      "id": "HVgLXRPpdow"
+    },
+    {
+      "productId": "mQvbbqhPpJ4",
+      "name": "apple",
+      "price": 45,
+      "qty": 4,
+      "total": 180,
+      "date": "12/04/2026, 09:55:01",
+      "id": "V-OGFbREgvc"
+    },
+    {
+      "productId": "mQvbbqhPpJ4",
+      "name": "apple",
+      "price": 45,
+      "qty": 1,
+      "total": 45,
+      "date": "12/04/2026, 10:10:38",
+      "id": "HfOQlnwfplw"
+    },
+    {
+      "productId": "Dg7UdbP6Wuo",
+      "name": "chicken",
+      "price": 200,
+      "qty": 1,
+      "total": 200,
+      "date": "12/04/2026, 10:22:14",
+      "id": "MbMFzGNZhik"
+    },
+    {
+      "productId": "mQvbbqhPpJ4",
+      "name": "apple",
+      "price": 45,
+      "qty": 1,
+      "total": 45,
+      "date": "12/04/2026, 10:26:09",
+      "id": "Cge7wTNEHUg"
+    },
+    {
+      "productId": "evYYYmMwk_8",
+      "name": "cucumber",
+      "price": 20,
+      "qty": 10,
+      "total": 200,
+      "date": "12/04/2026, 10:31:43",
+      "id": "jxaRkMyCHYw"
+    }
+  ],
+  "purchases": [
+    {
+      "productId": "xr0_XRNA8YU",
+      "name": "7up",
+      "qty": 2,
+      "costPrice": 39,
+      "total": 78,
+      "date": "12/04/2026, 09:52:59",
+      "id": "veMcLbZJWho"
+    },
+    {
+      "productId": "mQvbbqhPpJ4",
+      "name": "apple",
+      "qty": 10,
+      "costPrice": 100,
+      "total": 1000,
+      "date": "12/04/2026, 10:04:21",
+      "id": "Y2BGFZfldGw"
+    },
+    {
+      "productId": "mQvbbqhPpJ4",
+      "name": "apple",
+      "qty": 1,
+      "costPrice": 45,
+      "total": 45,
+      "date": "12/04/2026, 10:07:14",
+      "id": "E1613DeEsKI"
+    },
+    {
+      "productId": "mQvbbqhPpJ4",
+      "name": "apple",
+      "qty": 10,
+      "costPrice": 45,
+      "total": 450,
+      "date": "12/04/2026, 10:10:55",
+      "id": "WeQdqzJXXv4"
+    },
+    {
+      "productId": "mQvbbqhPpJ4",
+      "name": "apple",
+      "qty": 1,
+      "costPrice": 45,
+      "total": 45,
+      "date": "12/04/2026, 10:13:08",
+      "id": "lswqvBIwRjk"
+    },
+    {
+      "productId": "piY-GmUhpBI",
+      "name": "egg",
+      "qty": 1,
+      "costPrice": 10,
+      "total": 10,
+      "date": "12/04/2026, 10:15:49",
+      "id": "MD3WJBbdCVg"
+    }
+  ],
+  "returns": [
+    {
+      "productId": "Dg7UdbP6Wuo",
+      "name": "chicken",
+      "qty": 1,
+      "type": "sale",
+      "date": "07/04/2026, 09:42:27",
+      "id": "-oCEsxB54_I"
+    },
+    {
+      "productId": "piY-GmUhpBI",
+      "name": "egg",
+      "qty": 1,
+      "type": "purchase",
+      "date": "07/04/2026, 09:42:38",
+      "id": "vqEc6cFZLV4"
+    },
+    {
+      "productId": "evYYYmMwk_8",
+      "name": "cucumber",
+      "qty": 1,
+      "type": "sale",
+      "price": "20",
+      "total": 20,
+      "date": "2026-04-07T06:55:56.927Z",
+      "id": "pn0sSOOoVog"
+    },
+    {
+      "productId": "piY-GmUhpBI",
+      "name": "egg",
+      "qty": 10,
+      "type": "purchase",
+      "price": "10",
+      "total": 100,
+      "date": "2026-04-07T06:56:08.269Z",
+      "id": "Acq-Bc3HwG4"
+    },
+    {
+      "productId": "mQvbbqhPpJ4",
+      "name": "apple",
+      "qty": 10,
+      "type": "purchase",
+      "price": "45",
+      "total": 450,
+      "date": "2026-04-07T06:56:22.476Z",
+      "id": "ieTG9cntJsI"
+    },
+    {
+      "productId": "xr0_XRNA8YU",
+      "name": "7up",
+      "qty": 3,
+      "type": "sale",
+      "price": 20,
+      "total": 60,
+      "date": "2026-04-12T04:23:31.314Z",
+      "id": "U2bc9xO2RCY"
+    },
+    {
+      "productId": "mQvbbqhPpJ4",
+      "name": "apple",
+      "qty": 1,
+      "type": "sale",
+      "price": 45,
+      "total": 45,
+      "date": "2026-04-12T04:35:08.622Z",
+      "id": "N5U2wuvSGpw"
+    },
+    {
+      "productId": "mQvbbqhPpJ4",
+      "name": "apple",
+      "qty": 1,
+      "type": "sale",
+      "price": 45,
+      "total": 45,
+      "date": "2026-04-12T04:41:19.809Z",
+      "id": "Gwc24lhjFPc"
+    },
+    {
+      "productId": "mQvbbqhPpJ4",
+      "name": "apple",
+      "qty": 1,
+      "type": "sale",
+      "price": 45,
+      "total": 45,
+      "date": "2026-04-12T04:47:38.766Z",
+      "id": "qnT7hmTGe1w"
+    }
+  ],
+  "expenses": [
+    {
+      "title": "r",
+      "amount": 10,
+      "date": "13/04/2026, 12:53:25",
+      "id": "GWydpFJLGVI"
+    },
+    {
+      "title": "t",
+      "amount": 23,
+      "date": "13/04/2026, 12:53:33",
+      "id": "tuywUtJBBYs"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
